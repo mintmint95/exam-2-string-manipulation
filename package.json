@@ -1,0 +1,23 @@
+{
+  "name": "exam-2-string-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintmint95/exam-2-string-manipulation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintmint95/exam-2-string-manipulation/issues"
+  },
+  "homepage": "https://github.com/mintmint95/exam-2-string-manipulation#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
