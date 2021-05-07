@@ -1,7 +1,3 @@
-
-// // MELODY = 2 AND your = 2 ==> 4
-// const multipleKeywords = ['MELODY', 'your']
-
 function countMultipleKeywords(keywords, sentence) {
   let count = 0
   for (let i = 0; i < keywords.length; i++) {
