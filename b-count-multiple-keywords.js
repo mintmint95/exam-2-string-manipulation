@@ -3,7 +3,7 @@ function countMultipleKeywords(keywords, sentence) {
   for (let i = 0; i < keywords.length; i++) {
     const globalRegex = new RegExp(`${keywords[i]}`, 'g')
     const result = sentence.match(globalRegex)
-    count = count + result.length
+    count += result.length
   }
   return count
 }
