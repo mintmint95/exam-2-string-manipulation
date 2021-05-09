@@ -1,6 +1,6 @@
 const countOneKeyword = require('./a-count-one-keyword.js')
 
-describe('Positive Testing', () => {
+describe('Test function countOneKeyword', () => {
   const sentence = 'LINE MELODY provides ringtones, ringback tones for LINE Call colorize your LINE Call experience and express your feelings through LINE MELODY.'
   test('Case:1 Count with keyword as \'LINE MELODY\'', () => {
     const keyword = 'LINE MELODY'
